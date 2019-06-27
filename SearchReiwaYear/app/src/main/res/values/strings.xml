@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchReiwaYear</string>
+    <string name="result_text">...</string>
+    <string name="button_text">令和を探せ</string>
+</resources>
